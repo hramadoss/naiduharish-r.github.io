@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://naiduharish-r.github.io
+title: Random Security 
+tagline: A log of everyday life
+description: Test
+paginate: 5
